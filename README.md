@@ -1,3 +1,9 @@
+# GameReview Front
+This repositorie contains all of the front-end code used in the GameReview project. GameReview was a University Project, made in the Software Development subject, where you choose a technology to build an aplication of any area. Our group choose to do a website where you were able to evaluate games, but, unfortunatly, because of the time available for the project, GameReview became an interface for games available in the API that was used.
+
+GameReview Front is a project developed in React/JS and CSS.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
